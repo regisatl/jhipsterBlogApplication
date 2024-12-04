@@ -1,11 +1,11 @@
 {
   "home": {
-    "title": "Welcome, Java Hipster!",
-    "subtitle": "This is your homepage",
+    "title": "Bienvenue sur ma page d'accueil de Java Hipster!",
+    "subtitle": "Notre page d'accueil",
     "logged": {
-      "message": "You are logged in as user \"{{username}}\"."
+      "message": "Vous êtes connecté(e) en tant que \"{{username}}\"."
     },
-    "question": "If you have any question on JHipster:",
+    "question": "Si vous avez n'importe qu'elle question sur jHipster:",
     "link": {
       "homepage": "JHipster homepage",
       "stackoverflow": "JHipster on Stack Overflow",

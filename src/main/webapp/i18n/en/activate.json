@@ -2,8 +2,8 @@
   "activate": {
     "title": "Activation",
     "messages": {
-      "success": "<strong>Your user account has been activated.</strong> Please ",
-      "error": "<strong>Your user could not be activated.</strong> Please use the registration form to sign up."
+      "success": "<strong>Votre utilisateur a été bien activé.</strong> S'il vous plaît ",
+      "error": "<strong>Votre utilisateur n'a pas été activé.</strong> S'il vous plaît veuillez-vous inscrire."
     }
   }
 }
